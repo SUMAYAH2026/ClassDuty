@@ -5,7 +5,7 @@ import urllib.parse
 st.set_page_config(page_title="نظام الانتظار الذكي", layout="wide")
 
 # السطر المعدل لتوسيط العنوان وضمان عمله على السحابة
-st.markdown("<h1 style='text-align: center;'>🛡️ نظام إدارة حصص الانتظار المؤتمت</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>  نظام إدارة حصص الانتظار المؤتمت</h1>", unsafe_allow_html=True)
 
 # تنسيق بسيط لأداة رفع الملفات
 col_f1, col_f2, col_f3 = st.columns([1, 2, 1])
